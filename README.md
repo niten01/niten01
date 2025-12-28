@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 
 - I’m currently working on:
-  * Studying in university, working at ISP RAS, [ocaml-playground](https://github.com/niten01/ocaml-playground)
+  * Studying in university, working at ISP RAS
 - I’m learning:
-C++, OCaml, Compilers
+C++, Compilers
 - How to reach me:
 https://t.me/lolitron
 - I worked with:
