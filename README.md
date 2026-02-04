@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - I’m learning:
 C++, Compilers
 - How to reach me:
-https://t.me/lolitron
+https://t.me/niten001
 - I worked with:
 #### 🖥️ Languages
 ![C++](https://img.shields.io/badge/lang-c%2B%2B-db4ddb?style=for-the-badge&logo=cplusplus&logoColor=white)
