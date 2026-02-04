@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=db4ddb&random=false&width=435&lines=found+cool+widget;too+bad+i+can't+compose+a+single+line)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=db4ddb&random=false&width=435&lines=grape-vortex+:!!:+doomsday+clock+:+NOW;hierarchy+sin+?+IRL-Kinectv4.0.+%2Bdevotion)](https://git.io/typing-svg)
 
 ### I'm Vlad :suspect:
 <!--
