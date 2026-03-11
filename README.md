@@ -20,7 +20,7 @@ https://t.me/niten001
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niten01&show_icons=true&locale=en&theme=synthwave&bg_color=00000000&r=2" alt="" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=niten01&locale=en&theme=synthwave&bg_color=00000000&langs_count=15&layout=compact" alt="" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=niten01&locale=en&theme=synthwave&bg_color=00000000&langs_count=15&layout=compact" alt="" /> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niten01&show_icons=true&locale=en&theme=synthwave&bg_color=00000000" alt="" /></p> 
